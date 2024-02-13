@@ -1,5 +1,8 @@
 *{
-    font-size: 0;
+	box-sizing: border-box;
+	font-size: 0;
+	padding: 0;
+	margin: 0;
 }
 .bloc1{
     width: 222px;
